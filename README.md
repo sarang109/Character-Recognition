@@ -1,3 +1,3 @@
 # Character-Recognition
 
-![plot](D:\Pantech Internship Good quality videos\Day15)
+![alt text](https://github.com/sarang109/Character-Recognition/blob/main/Result.PNG)
